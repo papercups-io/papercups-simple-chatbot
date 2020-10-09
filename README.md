@@ -1,3 +1,5 @@
+Check out the demo at: https://app.papercups.io/bot/demo
+
 ### to activate environment
 `python3 -m venv env`
 `source env/bin/activate`
